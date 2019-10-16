@@ -458,6 +458,8 @@ ul.schedule li { height: auto; padding: 0; line-height: 3; }
 a.Link-1::before{
 		 left: 80%;
 		margin-top: 18px;
+		padding-top: 10px;
+		border: 1px solid black;
 	}
 
 
